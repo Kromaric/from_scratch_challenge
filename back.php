@@ -20,7 +20,7 @@
                echo '<div class="alert alert-danger" role="alert">
                 <h3>Message non envoyé</h3>
             </div>';
-            }
+            } 
         } catch (PDOException $e) {
             echo '<div class="alert alert-danger" role="alert">
                 <h3>Message non envoyé</h3>
@@ -28,4 +28,4 @@
             die();
         } 
     }
-        ?>   
+?>   

@@ -38,7 +38,7 @@
             <div class="col-md-1"></div>
         </div>
 <!-- Laponie -->
-        <div class="row bg-danger p-5" id="laponie">
+        <div class="row bg-success p-5" id="laponie">
             <div class="col-md-1"></div>
             <div class="col-md-10 my-5">
                 <div class="row my-5">
